@@ -1,0 +1,47 @@
+[
+   {
+      "id":"001",
+      "question":"Write the MAC Address of this remote device you’re currently logged into. /1 mark",
+      "answer": "b8:27:eb:df:0c:7b"
+   },
+   {
+      "id":"002",
+      "question":"Write the Private IP Address of this remote device you’re currently logged into. /1 mark",
+      "answer": "192.168.1.167"
+   },
+   {
+      "id":"003",
+      "question":"Write the Public Address of this remote device you’re currently logged into.",
+      "answer": ""
+   },
+   {
+      "id":"004",
+      "question":"How did you find the Public IP address in the previous question? /1 mark",
+      "answer": ""
+   },
+   {
+      "id":"005",
+      "question":"What is the default gateway of this remote device you are logged into? /1 mark",
+      "answer": "192.168.1.1"
+   },
+   {
+      "id":"006",
+      "question":"How did you find the default gateway in the previous question? /1 mark",
+      "answer": "By running the command route -n"
+   },
+   {
+      "id":"007",
+      "question":"What is the IP address on the WAN interface of RCA’s main router? /1 mark",
+      "answer": ""
+   },
+   {
+      "id":"008",
+      "question":"How did you find the WAN IP address in the previous question? /1 mark",
+      "answer": ""
+   },
+   {
+      "id":"009",
+      "question":"Still on this remote computer, open a new tab and use it to create an RCA Website made up of index.html, about-us.html, and courses.html; all those pages being linked together so that navigating from one page to another is easy. To make your code neat, create the style sheet style.css apart and link it to html pages. And to make the website more attractive, can even add images. Hint: You can use nano to write your code, or you can develop the web on your local device and then copy it to the remote device. After completing your website, publish it using Netcat and the port number to use is the numeric in your student ID for example RCA0101SHI will use port 101 while RCA0159JML will use 159. Finally, when everything is ready, come back to this tab to type in the text input below the link people will use to visit your website. /12 marks",
+      "answer": ""
+   }
+]
